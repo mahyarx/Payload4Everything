@@ -7,11 +7,6 @@ Feel free to improve with your payloads and techniques !
 I :heart: pull requests :)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahyarx/Payload4Everything/master/.github/banner.png">
-</p>
-
-
 Every section contains the following files, you can use the `_template_vuln` folder to create a new chapter:
 
 - README.md - vulnerability description and how to exploit it, including several payloads
