@@ -1,4 +1,4 @@
-# Payloads for Everyhings [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Payloads%20For%20Everyhings,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@mahyarx&url=https://github.com/mahyarx/Payload4Everything/)
+# Payloads for Everyhing [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Payloads%20For%20Everyhing,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@mahyarx&url=https://github.com/mahyarx/Payload4Everything/)
 
 A list of useful payloads and bypasses for Web Application Security.
 
