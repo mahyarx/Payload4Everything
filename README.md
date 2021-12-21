@@ -1,10 +1,10 @@
 # Payloads All The Things [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Payloads%20All%20The%20Things,%20a%20list%20of%20useful%20payloads%20and%20bypasses%20for%20Web%20Application%20Security%20-%20by%20@mahyarx&url=https://github.com/mahyarx/Payload4Everything/)
 
 A list of useful payloads and bypasses for Web Application Security.
-Feel free to improve with your payloads and techniques !
-I :heart: pull requests :)
 
-You can also contribute with a :beers: IRL, or using the sponsor button.
+Feel free to improve with your payloads and techniques !
+
+I :heart: pull requests :)
 
 
 <p align="center">
