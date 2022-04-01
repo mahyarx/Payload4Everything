@@ -57,7 +57,7 @@
 
 ## Tools
 
-- [SSRFmap - https://github.com/mahyarx/SSRFmap](https://github.com/mahyarx/SSRFmap)
+- [SSRFmap - https://github.com/swisskyrepo/SSRFmap](https://github.com/swisskyrepo/SSRFmap)
 - [Gopherus - https://github.com/tarunkant/Gopherus](https://github.com/tarunkant/Gopherus)
 - [See-SURF - https://github.com/In3tinct/See-SURF](https://github.com/In3tinct/See-SURF)
 - [SSRF Sheriff - https://github.com/teknogeek/ssrf-sheriff](https://github.com/teknogeek/ssrf-sheriff)
@@ -240,7 +240,7 @@ http://127.1.1.1:80:\@@127.2.2.2:80/
 http://127.1.1.1:80#\@127.2.2.2:80/
 ```
 
-![https://github.com/mahyarx/Payload4Everything/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.png?raw=true](https://github.com/mahyarx/Payload4Everything/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.jpg?raw=true)
+![https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.png?raw=true](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/WeakParser.jpg?raw=true)
 
 ### Bypassing using a redirect
 [using a redirect](https://portswigger.net/web-security/ssrf#bypassing-ssrf-filters-via-open-redirection)
@@ -301,7 +301,7 @@ ssrf.php?url=http://127.0.0.1:80
 ssrf.php?url=http://127.0.0.1:443
 ```
 
-![SSRF stream](https://github.com/mahyarx/Payload4Everything/blob/master/Server%20Side%20Request%20Forgery/Images/SSRF_stream.png?raw=true)
+![SSRF stream](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/Images/SSRF_stream.png?raw=true)
 
 The following URL scheme can be used to probe the network
 
@@ -450,7 +450,7 @@ gopher://127.0.0.1:6379/_save
 
 ## SSRF exploiting PDF file
 
-![https://raw.githubusercontent.com/mahyarx/Payload4Everything/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png](https://raw.githubusercontent.com/mahyarx/Payload4Everything/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png)
+![https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png](https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/Server%20Side%20Request%20Forgery/Images/SSRF_PDF.png)
 
 Example with [WeasyPrint by @nahamsec](https://www.youtube.com/watch?v=t5fB6OZsR6c&feature=emb_title)
 
